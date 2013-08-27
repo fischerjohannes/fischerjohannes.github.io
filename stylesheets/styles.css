@@ -759,7 +759,7 @@ header p {
 #banner .twit {
   position: fixed;
   left: 50%;
-  margin-left: -160px;
+  margin-left: -240px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -769,7 +769,7 @@ header p {
 #banner .em {
   position: fixed;
   left: 50%;
-  margin-left: -35px;
+  margin-left: -155px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
